@@ -77,4 +77,30 @@ testing approach and technologies I use, and some works I was able to archive.
 
 ## Additional Tools and References
 
-Additional testing tools and utilities used throughout my QA workflow will be added here as the repository evolves.
+Additional testing tools and utilities used throughout my QA workflow will be added here as well as links for future reference.
+
+**Web Testing**
+- [HTML Code Tester - W3C](https://validator.w3.org/)
+- [CSS Code Tester - W3C](https://jigsaw.w3.org/css-validator/)
+  
+**Mobile Testing**
+- [Quality in Mobile Apps - Git](https://github.com/mgasiorowski/quality_mobile_apps)
+- [Mobile Page Optimizer - Google](https://business.google.com/en-all/think/future-of-marketing/mobile-tools-to-optimize-site-and-app/)
+
+**API Testing**
+- [Postman - Documentation](https://learning.postman.com/docs/introduction/overview)
+
+**Performance Testing**
+- [Dev Toolkit - Google Lighthouse](https://github.com/GoogleChrome/lighthouse)
+- [Website Page Analysis - Google](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect)
+- [Website Page Analysis - pingdom](https://tools.pingdom.com/)
+- [Website Page Analysis - catchpoint](https://www.webpagetest.org/)
+
+**Security Testing**
+- [Site Scanner - securityheader](https://securityheaders.com/)
+- [Site Scanner - Observatory by Mozilla](https://developer.mozilla.org/en-US/observatory)
+- [SSL Server Test - SSL Labs](https://www.ssllabs.com/ssltest/index.html)
+
+**Automation**
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Selenium WebDriver with Python - TAU](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/)
