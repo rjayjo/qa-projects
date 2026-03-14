@@ -52,7 +52,10 @@ testing approach and technologies I use, and some works I was able to archive.
 - Python  
 - Git / GitHub
 
-**Testing Templates (Updated regularly and adaptive depending on testing requirements)**  
+**Testing Templates (Updated regularly and adaptive depending on testing requirements)**
+- [Test Case Template](./Testing%20Templates/Test%20Case%20Template.md)
+- [Bug Report Template](./Bug%20Report%20Template.md)
+- [Test Details and Scenario Template](./Testing%20Templates/Test%20Details%20and%20Scenario%20Template.md)
 
 ------------------------------------------------------------------------
 
