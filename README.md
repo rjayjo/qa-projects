@@ -69,6 +69,10 @@ testing approach and technologies I use, and some works I was able to archive.
 - Summary of my experience as a Software Quality Assurance Engineer Intern at DigiPlus Interactive Corp.  
   - [Digiplus Interactive Corp (SWQAE Intern) – QA Report](./DigiPlus%20Interactive%20Corp%20-%20Software%20Quality%20Assurance%20Engineer%20Intern)
 
+**ParaBank – Fund Transfer Module QA Test Documentation**  
+- A manual QA project covering test scenarios, test cases, and defect reporting for fund transfer functionality of ParaBank, a digital bank.  
+  - [ParaBank - Fund Transfer Module Test Documentation](./ParaBank%20-%20Fund%20Transfer%20Module)
+
 **Universal Task Management Test Suite**  
 - A tool-agnostic functional test suite designed to test task management systems such as Kanban boards, issue trackers, or productivity platforms.  
   - [Universal Task Management Test Suite](./Universal%20Task%20Management%20Test%20Suite)
