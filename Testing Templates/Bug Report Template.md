@@ -22,7 +22,7 @@ The following fields are commonly used to document and manage defects during tes
 | Actual Result      | Actual system behavior observed                                          |
 | Screenshot / Video | Supporting visual evidence                                               |
 | Assigned Developer | Developer responsible for resolving the issue                            |
-| Status             | Current defect state (New, Assigned, Open, Retest, Fixed, Closed)        |
+| Status             | Current defect state (New, Assigned, Open, Fixed, Retest, Closed)        |
 
 ---
 
